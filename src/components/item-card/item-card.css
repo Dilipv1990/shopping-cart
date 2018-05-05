@@ -1,0 +1,43 @@
+.cover-img{
+	width: 144px;
+	height:144px;
+}
+.card-container{
+	width: 235px;
+	height:250px;
+	border: solid;
+	margin: 10px;
+	border-color: #efefef;
+}
+.desc{
+	background: #efefef;
+	height: 70px;
+}
+p{
+	margin: 0;
+	padding: 7px 7px 7px 7px;
+}
+.btn-secondary{
+color: #0099ff;
+border: solid;
+border-color:#0099ff;	
+border-width: 1px;
+border-radius: 2px;
+}
+.btn-secondary:hover{
+	color:#efefef;
+	background-color: #0099ff;
+}
+.crossed{
+	text-decoration-line: line-through;
+	text-decoration-color:  red;
+}
+.offer{
+	background-color: #70c35d;
+	width:40px;
+	padding:2px;
+	font-size: 0.7rem;
+	color: white;
+	margin-top: 12px;
+	position: absolute;
+}
